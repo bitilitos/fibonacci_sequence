@@ -31,7 +31,7 @@ fn main() {
         );
         let duration = start.elapsed();
         println!(
-            "The calculation algorithm of the {}{} fibonacci element took {:?}\n",
+            "The calculation algorithm of the {}{} fibonacci element took {:?}.\n",
             index,
             ordinal_string(index),
             duration
