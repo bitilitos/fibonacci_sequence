@@ -24,14 +24,14 @@ fn main() {
         };
         let start = Instant::now();
         println!(
-            "The {}{} fibonacci element is {}.",
+            "The {}{} Fibonacci element is {}.",
             index,
             ordinal_string(index),
             format_number(return_fib_element(index))
         );
         let duration = start.elapsed();
         println!(
-            "The calculation algorithm of the {}{} fibonacci element took {:?}.\n",
+            "The calculation algorithm of the {}{} Fibonacci element took {:?}.\n",
             index,
             ordinal_string(index),
             duration
