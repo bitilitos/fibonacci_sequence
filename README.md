@@ -1,4 +1,4 @@
-# fibonacci_sequence
+# Fibonacci sequence calculator
 
 Console/terminal fibonacci sequence element calculator. It was made as an extended exercise from [The Book](https://doc.rust-lang.org/book/title-page.html).
 You can read at the end of chapter 3.5:
