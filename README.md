@@ -7,6 +7,6 @@ You can read at the end of chapter 3.5:
 
 
 ## Capabilities
-This small program is able to calculate the nth Fibonacci number and the elapsed time to do the calculations. 
+This small program is able to calculate the nth Fibonacci number and the elapsed time to do the calculations.\n
 Theoretically 0 < n < 4294967295, limited by n:u32. However I've only tested up to n = 1 000 000.
 > The calculation algorithm of the 1000000th fibonacci element took 65.457878488s.
